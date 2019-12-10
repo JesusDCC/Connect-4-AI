@@ -1,0 +1,8 @@
+Para correr:
+	javac connect4.java
+	java connect4
+
+Depois escolher o algoritmo que iremos testar bem como a dificuldade,
+podemos ainda escolher se queremos jogar contra o algoritmo ou se queremos que outro algoritmo jogue contra o pc(algoritmo escolhido na primeira opção).
+
+
